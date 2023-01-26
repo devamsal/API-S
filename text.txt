@@ -1,0 +1,7 @@
+//Product Api Here.
+
+https://fakestoreapi.com/products
+
+//GitHub Api Here
+
+https://api.github.com/users/
